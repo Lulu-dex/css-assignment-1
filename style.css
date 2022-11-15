@@ -1,0 +1,20 @@
+h1{
+    font-size: 18px;
+}
+p{
+    font-size: 14px;
+}
+/* first section */
+.first-section{
+    color:green;
+    font-weight: bold;
+    font-style: italic;
+}
+/* second section */
+.second-section{
+color: red;
+}
+/* third section */
+.third-section{
+    color: blue;
+}
